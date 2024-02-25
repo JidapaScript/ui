@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    border-color:darkred;
+    position: relative;
+    top: 83px;
+    left: 0%;
+    width: 376px;
+}
+
+.container h1{
+    background-color: cadetblue;
+    width: 135;
+    height: 35;
+    left: 0%;
+}
+
+.icon{
+    background-color: cadetblue;
+    width: 26px;
+    height: 26px;
+    right: 100%;
+}
+
+
+
