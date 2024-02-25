@@ -32,17 +32,60 @@ body{
 
 #messages-button{
     background-color:coral;
+    position: relative;
     width: 26px;
     height: 26px;
-    right: 100%;
+    left: 314px;
 }
 
 #calendar-button{
     background-color:lightgreen;
+    position: relative;
     width: 26px;
     height: 26px;
-    right: 100%;
+    left: 366px;
 }
 
+#tab-bar{
+    background-color: aliceblue;
+    position: relative;
+    bottom: 0%;
+    width: 410px;
+    height: 122px;
+}
 
+#home-button{
+    background-color:darkviolet;
+    position: relative;
+    width: 26px;
+    height: 26px;
+    bottom: 50px;
+    left: 39px;
+}
 
+#friends-button{
+    background-color:hotpink;
+    position: relative;
+    width: 26px;
+    height: 26px;
+    bottom: 50px;
+    left: 141px;
+}
+
+#activity-button{
+    background-color:lightsalmon;
+    position: relative;
+    width: 26px;
+    height: 26px;
+    bottom: 50px;
+    left: 243px;
+}
+
+#profile-button{
+    background-color: gold;
+    position: relative;
+    width: 26px;
+    height: 26px;
+    bottom: 50px;
+    left: 345px;
+}
