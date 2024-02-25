@@ -3,7 +3,19 @@ body{
     margin: 0;
 }
 
+.main{
+    color: antiquewhite;
+    border: 8px;
+    border-color: black;
+    position: fixed;
+    left: 515px;
+    align-content: center;
+    width: 410px;
+    height: 888px;
+}
+
 .container{
+    border: 8px;
     border-color:darkred;
     position: relative;
     top: 83px;
@@ -18,8 +30,15 @@ body{
     left: 0%;
 }
 
-.icon{
-    background-color: cadetblue;
+#messages-button{
+    background-color:coral;
+    width: 26px;
+    height: 26px;
+    right: 100%;
+}
+
+#calendar-button{
+    background-color:lightgreen;
     width: 26px;
     height: 26px;
     right: 100%;
