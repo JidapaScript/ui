@@ -78,6 +78,30 @@ body{
     left: 285px;
 }
 
+#profile{
+    background-color: blue;
+    position: relative;
+    width: 29px;
+    height: 29px;
+    left: 9px;
+}
+
+#username{
+    background-color:cornflowerblue;
+    position: relative;
+    width: 71px;
+    height: 13px;
+    left: 45px;
+}
+
+#post{
+    background-color:cadetblue;
+    position: relative;
+    width: 250px;
+    height: 373px;
+    left: 0%;
+}
+
 #tab-bar{
     background-color: aliceblue;
     position: fixed;
