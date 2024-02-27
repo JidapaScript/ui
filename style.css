@@ -46,10 +46,43 @@ body{
     left: 366px;
 }
 
+#mon{
+    background-color: darkgoldenrod;
+    position: relative;
+    width: 92px;
+    height: 123px;
+    left: 0%;
+}
+
+#tues{
+    background-color:lightpink;
+    position: relative;
+    width: 92px;
+    height: 123px;
+    left: 95px;
+}
+
+#wed{
+    background-color: darkseagreen;
+    position: relative;
+    width: 92px;
+    height: 123px;
+    left: 190px;
+}
+
+#add{
+    background-color:burlywood;
+    position: relative;
+    width: 92px;
+    height: 123px;
+    left: 285px;
+}
+
 #tab-bar{
     background-color: aliceblue;
-    position: relative;
-    bottom: 0%;
+    position: fixed;
+    top: 82%;
+    left: 515px;
     width: 410px;
     height: 122px;
 }
